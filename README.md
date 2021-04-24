@@ -1,0 +1,2 @@
+# gitskills
+private computer
